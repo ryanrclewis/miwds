@@ -527,7 +527,7 @@ If you find any issues with our accessibility conformance, please create an issu
 
 ## Long-term support of v2.x
 
-Version 2.x is in maintenance mode and will continue to get important bugfixes and security patches until May 2023.
+Version 2.x is no longer maintained.
 
 ## Need installation help?
 
