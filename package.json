@@ -1,7 +1,7 @@
 {
   "name": "@uswds/uswds",
   "version": "3.13.0",
-  "description": "Open source UI components and visual style guide for U.S. government websites",
+  "description": "Open source UI components and visual style guide for Michigan government websites",
   "engines": {
     "node": ">= 4"
   },
@@ -11,9 +11,7 @@
     "components",
     "library",
     "open source",
-    "united states",
-    "usa",
-    "u.s.",
+    "michigan",
     "government",
     "websites"
   ],
