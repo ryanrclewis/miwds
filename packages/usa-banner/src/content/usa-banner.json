@@ -1,13 +1,13 @@
 {
   "banner": {
     "id": "gov-banner-default",
-    "text": "An official website of the United States government",
+    "text": "An official website of the Michigan government",
     "action": "Here’s how you know",
-    "aria_label": "Official website of the United States government"
+    "aria_label": "Official website of the Michigan government"
   },
   "domain": {
     "heading": "Official websites use .gov",
-    "text": "A <strong>.gov</strong> website belongs to an official government organization in the United States."
+    "text": "A <strong>.gov</strong> website belongs to an official government organization in Michigan."
   },
   "https": {
     "heading": "Secure .gov websites use HTTPS",

@@ -1,4 +1,4 @@
-# Core SASS Package for the United States Web Design System
+# Core SASS Package for the Michigan Web Design System
 
 !! This package has _no style output_ and used exclusively for SASS. !!
 

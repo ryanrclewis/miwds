@@ -1,13 +1,13 @@
 {
   "banner": {
     "id": "gov-banner-dot-mil",
-    "text": "An official website of the United States government",
+    "text": "An official website of the Michigan government",
     "action": "Here’s how you know",
-    "aria_label": "Official website of the United States government,"
+    "aria_label": "Official website of the Michigan government,"
   },
   "domain": {
     "heading": "Official websites use .mil",
-    "text": "A <strong>.mil</strong> website belongs to an official U.S. Department of Defense organization."
+    "text": "A <strong>.mil</strong> website belongs to an official Michigan Department of Defense organization."
   },
   "https": {
     "heading": "Secure .mil websites use HTTPS",

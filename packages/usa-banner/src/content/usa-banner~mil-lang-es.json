@@ -1,13 +1,13 @@
 {
   "banner": {
     "id": "gov-banner-dot-mil-lang-es",
-    "text": "Un sitio oficial del Gobierno de Estados Unidos",
+    "text": "Un sitio oficial del Gobierno de Michigan",
     "action": "Así es como usted puede verificarlo",
-    "aria_label": "Un sitio oficial del Gobierno de Estados Unidos,"
+    "aria_label": "Un sitio oficial del Gobierno de Michigan,"
   },
   "domain": {
     "heading": "Los sitios web oficiales usan .mil",
-    "text": "Un sitio web <strong>.mil</strong> pertenece a una organización oficial del Departamento de Defensa de EE. UU."
+    "text": "Un sitio web <strong>.mil</strong> pertenece a una organización oficial del Departamento de Defensa de Michigan."
   },
   "https": {
     "heading": "Los sitios web seguros .mil usan HTTPS",
